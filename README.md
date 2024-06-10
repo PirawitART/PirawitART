@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a passionate Health Data Science student and p
 
 ## 📈 GitHub Stats
 
-![Pirawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Pirawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirawitART&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
